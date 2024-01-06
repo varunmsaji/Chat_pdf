@@ -1,0 +1,14 @@
+# Virtual environment
+venv/
+
+# Ignore .env file
+.env
+
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# Dependency directories
+.venv/
+.idea/
+*.iml
